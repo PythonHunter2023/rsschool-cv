@@ -1,1 +1,1 @@
-https://github.com/PythonHunter2023/rsschool-cv/
+https://github.com/PythonHunter2023/rsschool-cv/cv
