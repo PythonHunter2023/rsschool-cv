@@ -19,5 +19,3 @@ IT Specialist with over 9+ years of experience in information security and digit
 [My GitHub](https://github.com/PythonHunter2023) <br>
 
 [![RSS JS Course]([rs-school-logo.svg](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/CV(markdown)/rs-school-logo.svg))](https://rs.school/courses/javascript) <br>
-
-
